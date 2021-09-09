@@ -1,0 +1,6 @@
+site_name: 克苏鲁的世界
+site_url: https://example.com/
+nav:
+- 主页: 'index.md'
+- 详情: 'about.md'
+theme: readthedocs
